@@ -1,5 +1,5 @@
 ---
-title: Mulitcast
+title: Multicast
 description: A reaction that multiple reactions can subscribe to.
 category: reactions
 ---
@@ -22,7 +22,7 @@ import multicast from 'popmotion/reactions';
 
 ### Subscription
 
-Provide a reactions to `mulitcast.subscribe()`:
+Provide a reactions to `multicast.subscribe()`:
 
 ```javascript
 const foo = multicast();
